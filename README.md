@@ -2,7 +2,7 @@
 
 A través de diferentes políticas de lista abierta (donde se almacenan los nodos expandidos pendientes de explorar) se implementan 3 diferentes algoritmos para recorrer un árbol de decisión, construido a medida que se expanden cada posibilidad. El "mapa" de Rumania donde se simula el recorrido es el siguiente:
 
-![Mapa Ciudades Rumania](../romania-distances.jpg)
+![Mapa Ciudades Rumania](romania-distances.jpg)
 
 ### Búsqueda en profundidad
 
